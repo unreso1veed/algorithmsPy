@@ -1,4 +1,5 @@
 # algorithmsPy
-Repository of programming algorithms from the book "Грокаем Алгоритмы, ч.2" on Python 3
+Different algorithms on Python 3. sourse - GA.
+
 
 Start - July 2025
